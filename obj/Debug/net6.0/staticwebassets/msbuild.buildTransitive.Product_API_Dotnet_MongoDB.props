@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Product_API_Dotnet_MongoDB.props" />
+</Project>
